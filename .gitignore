@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Dist folder
+dist/
+
+# Testing
+coverage/
+*.lcov
+
+# Environment variables
+.env
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Jest cache
+jest-cache/
+jest-coverage/
+
+# MacOS specific files
+.DS_Store
